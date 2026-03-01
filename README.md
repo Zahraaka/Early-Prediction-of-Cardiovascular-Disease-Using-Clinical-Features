@@ -7,7 +7,7 @@ The objective of this project is to develop and evaluate a supervised machine le
 
 **Dataset Description**
 
-•	Source: Cardiovascular Disease Dataset (Kaggle)
+•	Source: Cardiovascular Disease Dataset (https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 •	Size: 70,000 patients, 13 variables
 
